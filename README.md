@@ -1,2 +1,2 @@
-My first readme
-The project will showcase all my foundational tasks in alx fondation class.
+My first readme is now edited for all my foundational courses project in alx programme
+
